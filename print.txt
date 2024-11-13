@@ -1,0 +1,17 @@
+          Claude's Pharmacy APP
+           Bucuresti, Sector 6 
+              UIC 123456789
+           Bucuresti, Sector 6 
+           Bucuresti, Sector 6 
+           NR. ZDDS BG123456789
+          #0001   claude   0001
+                ORIGINAL
+          FACTURA NR. 0000001001
+        NUV: XX123456-0001-0000001
+     Adrenalina in aerosoli
+        Cantitate............1
+        Pret / buc.  ........50.0 LEI
+     Forex
+        Cantitate............1
+        Pret / buc.  ........160.0 LEI
+     Total...................210.0LEI
